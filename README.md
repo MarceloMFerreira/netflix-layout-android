@@ -1,5 +1,4 @@
-# netflix-layout-android
-## Atividade Prática - Layouts
+# Atividade Prática - Layouts
 
 Este é um projeto referente à atividade prática da disciplina Programação para Dispositivos Móveis na faculdade.
 
