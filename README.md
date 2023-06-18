@@ -1,10 +1,10 @@
-# Atividade Prática - Layouts
+# Stranger Things Constraint Layout
 
-Este é um projeto referente à atividade prática da disciplina Programação para Dispositivos Móveis na faculdade.
+Este projeto é um exemplo simples de como utilizar o Constraint Layout no desenvolvimento de aplicativos Android. Ele exibe uma tela com elementos como texto, imagem e barras de progresso, utilizando o Constraint Layout para organizar e posicionar esses elementos de forma responsiva.
 
-## Descrição
+## Recursos Utilizados
 
-Este projeto tem como objetivo a fixação de conteúdo envolvendo constraint layouts no Android.
+- Constraint Layout: O Constraint Layout é um layout flexível e poderoso disponível no Android Studio que permite criar interfaces de usuário complexas e responsivas.
 
-
+- Guideline: Os guidelines são elementos do Constraint Layout que ajudam a posicionar outros elementos de forma precisa.
 
